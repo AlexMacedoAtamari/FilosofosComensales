@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1791814205 source:e:\codeblocks\filosofos\main.cpp
+	<chrono>
+	<iostream>
+	<mutex>
+	<thread>
+
